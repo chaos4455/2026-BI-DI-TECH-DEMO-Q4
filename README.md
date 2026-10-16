@@ -1,4 +1,4 @@
-# 📱 Enterprise Systems, UI/UX, Data Viz & Decision Intelligence Showcase
+<img width="1079" height="606" alt="chrome_zRtE4NF6tg" src="https://github.com/user-attachments/assets/940b44ff-9ac5-446d-bcf1-826e95f31812" /># 📱 Enterprise Systems, UI/UX, Data Viz & Decision Intelligence Showcase
 ## 🚀 Arquitetura de Interfaces Críticas, BI/DI, Web Apps, Desktop & Mobile Cockpits
 
 ![UI/UX Architecture](https://img.shields.io/badge/UI%2FUX_Architecture-Design_Systems_Críticos-6f42c1?style=for-the-badge&logo=figma&logoColor=white)
@@ -134,6 +134,13 @@ Esta seção foi reservada para inserção dos screenshots, renders em alta defi
 - *Espaço Reservado para Captura de Tela 05: Visão Consolidada de Demanda, Logística e Estoque*
 - *Espaço Reservado para Captura de Tela 06: Heatmaps de Giro de Produtos e Análise ABC*
 - *Espaço Reservado para Captura de Tela 07: Visualização em Formato Mobile e Tablet*
+
+<img width="2946" height="1462" alt="chrome_3Z9u9Ppeip" src="https://github.com/user-attachments/assets/9a222744-db13-4466-bbfd-a51be918867b" />
+<img width="1021" height="626" alt="chrome_7bnSFdwbNp" src="https://github.com/user-attachments/assets/feee700c-3235-4159-bc08-79d93c2d34e1" />
+<img width="1079" height="606" alt="chrome_zRtE4NF6tg" src="https://github.com/user-attachments/assets/84a93015-5586-4c77-bf4c-d5490501ad42" />
+<img width="960" height="828" alt="chrome_rx2m2TuNGU" src="https://github.com/user-attachments/assets/aeac4d12-4b74-4015-bcc7-4e099ba72a74" />
+
+
 
 ---
 
